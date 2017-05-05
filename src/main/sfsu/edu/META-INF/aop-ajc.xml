@@ -1,0 +1,6 @@
+<aspectj>
+<aspects>
+<aspect name="main.sfsu.edu.Azpect"/>
+</aspects>
+</aspectj>
+

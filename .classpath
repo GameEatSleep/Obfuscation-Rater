@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/DevTools/aspectj1.8/lib/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/DevTools/aspectj1.8/lib/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="C:/DevTools/aspectj1.8/lib/aspectjtools.jar"/>
+	<classpathentry kind="lib" path="C:/DevTools/aspectj1.8/lib/org.aspectj.matcher.jar"/>
+	<classpathentry kind="lib" path="E:/AMMAR/bcel-6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
